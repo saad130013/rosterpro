@@ -1,0 +1,5 @@
+{
+  "name": "v1 Advanced Duty Roster Processor",
+  "description": "A sophisticated tool to process multi-block monthly duty rosters, extract employee data, and generate comprehensive quality assurance reports and consolidated Excel outputs.",
+  "requestFramePermissions": []
+}
